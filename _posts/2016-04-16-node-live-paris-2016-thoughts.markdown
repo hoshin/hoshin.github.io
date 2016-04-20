@@ -11,6 +11,8 @@ In my opinion, this event was a bit of a mixed bag but there were some interesti
 
 In this piece, I'll quickly go through what happened 
 <!-- more -->
+
+
 # Andy Watson - "Lightning/welcome talk"
 Andy greeted us and talked a bit about IBM's involvement in the node.js project as of today. For those like me who either did not care much or didn't notice, here are some figures : 
 
