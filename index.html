@@ -41,5 +41,20 @@ comments: false
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}
-
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+    _paq.push(["setDomains", ["*.hoshin.github.io"]]);
+	_paq.push(['trackPageView']);
+	_paq.push(['enableLinkTracking']);
+	(function() {
+		var u="//martinbahier.fr/piwik/";
+		_paq.push(['setTrackerUrl', u+'statphp']);
+		_paq.push(['setSiteId', 5]);
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'statjs'; s.parentNode.insertBefore(g,s);
+	})();
+</script>
+<noscript><p><img src="//martinbahier.fr/piwik/piwik.php?idsite=5" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
 {% include pagination.html %}
