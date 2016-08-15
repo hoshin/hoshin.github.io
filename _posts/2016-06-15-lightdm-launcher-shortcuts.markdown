@@ -2,7 +2,7 @@
 layout: post
 title:  "Configuring a shortcut for LightDM's app launcher"
 date:   2016-06-15 12:00:00 +0200
-categories: LightDM Gnome3 launcher shortcut
+categories: Gnome&nbsp;stuff
 ---
 
 # We do it, then we forget

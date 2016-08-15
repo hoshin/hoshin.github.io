@@ -2,7 +2,7 @@
 layout: post
 title:  "Stubbing/Mocking JS module internals (almost) seamlessly"
 date:   2016-06-15 12:00:00 +0200
-categories: Node.js testing stubbing internals
+categories: NodeJS testing
 ---
 
 # The issue
