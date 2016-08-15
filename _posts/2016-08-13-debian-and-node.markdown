@@ -135,7 +135,7 @@ I have not yet found an ETA or transitional package recommendations about a maxi
 
 * There are so many things packaged for widespread distributions like Fedora or Debian that it is very difficult to ensure that nothing conflicts with nothing name-wise.
 * Even if you manage not to conflict at some point, there might be a time, later on, where you'll encounter the issue, and possibly have to rename.
-* As per usual : there are multiple solutions to the same issue but they're not necessarily equivalent
+* As per usual : there are multiple solutions to the same issue but they're not necessarily equivalent in terms of timing
 * Even if you are the first, it doesn't necessarily mean you'll get to keep your binaries names forever, if a more popular / sensible app that wants the same bin name later on, you'll have to have a little chat with the package maintainers of distros you're packaged for.
 
 Hope this helps, feel free to hit me on Twitter if you want to share additional info / correct me ;)
