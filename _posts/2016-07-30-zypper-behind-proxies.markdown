@@ -2,7 +2,7 @@
 layout: post
 title:  "zypper behind bars ... well behind proxies"
 date:   2016-08-07 13:00:00 +0200
-categories: SUSE Zypper proxy
+categories: SUSE/Zypper proxy
 ---
 
 # Sometimes, things just go the Murphy's law way

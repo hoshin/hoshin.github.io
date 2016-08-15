@@ -2,7 +2,7 @@
 layout: post
 title:  "Testing with current time involved"
 date:   2016-04-22 13:14:05 +0200
-categories: node.js testing Sinon.JS trick
+categories: NodeJS testing Sinon.JS
 ---
 
 At some point when you're writing tests, you come across frustrating bits that you know are going to rain on your parade and be somewhat of a pain to test (and not for the good reasons). 

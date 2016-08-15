@@ -2,7 +2,7 @@
 layout: post
 title:  "Issues I had when upgrading to 16.04 and how I fixed it (kinda)"
 date:   2016-04-27 14:24:00 +0200
-categories: Ubuntu_16.04_LTS Radeon_R7 hardware 
+categories: Debian/Ubuntu hardware 
 ---
 
 Oh noez! Dah computa iz broken! /o\

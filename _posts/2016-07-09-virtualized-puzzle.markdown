@@ -2,7 +2,7 @@
 layout: post
 title:  "Virtualized puzzle with Vagrant & Virtualbox"
 date:   2016-07-09 00:00:00 +0200
-categories: VirtualBox Vagrant Ubuntu16.04
+categories: VirtualBox/Vagrant Debian/Ubuntu
 ---
 
 # Oh noez! Mai VM iz not bootin after distro updatz! Halp!
