@@ -2,7 +2,7 @@
 layout: post
 title:  "Thoughts on Node Live Paris 2016"
 date:   2016-04-16 22:34:05 +0200
-categories: NodeJS&nbsp;live&nbsp;Paris npm benchmarking
+categories: NodeJS-live-Paris npm benchmarking
 ---
 
 Last thursday afternoon, I went to the node.js Live Paris event. It was less crowded than I expected but it was probably due to the fact that the event took place midweek in the middle of the afternoon. Not a big deal though, it left more room in the comfy IBM conference room for the geeks like me that made it ;)
